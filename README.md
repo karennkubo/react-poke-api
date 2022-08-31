@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>  Projeto desenvolvido com React.JS, Javascript, axios, styled-components e PokeApi. Nele, o usuário consegue visualizar os 10 primeiros pokémons (da 1° geração) lançados pelo desenho, visualizando suas duas principais habilidades. Além disso, consegue filtrar um pokémon específico através da barra de pesquisa. OBS.: Para voltar a visualizar todos os pokémons, o usuário pode recarregar a página ou simplesmente clicar em "Pesquisar" sem ter escrito nada na ferramenta de busca.</h3>
-  <a href="https://campolink-karen-kubo.netlify.app/" target="_blank"><p>Clique aqui!</p></a>
+  <a href="http://campolink-karen-kubo.surge.sh/" target="_blank"><p>Clique aqui!</p></a>
 </div>
 
 
